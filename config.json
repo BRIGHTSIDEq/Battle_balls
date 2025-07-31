@@ -1,0 +1,24 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "fps": 60,
+  "platform_health": 100,
+  "balls": [
+    {
+      "name": "10 Slammy",
+      "color": [255, 0, 0],
+      "speed": 5,
+      "damage": 1,
+      "clones": 10,
+      "type": "multi_hit"
+    },
+    {
+      "name": "SpeedySlam",
+      "color": [0, 0, 255],
+      "speed": 8,
+      "damage": 1,
+      "clones": 1,
+      "type": "speed_boost"
+    }
+  ]
+}
